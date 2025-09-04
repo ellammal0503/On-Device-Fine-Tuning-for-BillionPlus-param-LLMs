@@ -2,8 +2,8 @@
 
 - **Problem Statement:** On-Device Fine-Tuning Framework for Billion+-Parameter LLMs
 - **Team Name:** PocketLoRA Innovators
-- **Team Members:** Thambi (… ), [Member 2], [Member 3]
-- **Demo Video Link:** https://youtu.be/your-demo-link
+- **Team Members:** Karthick Kumarasamy
+- **Demo Video Link:** TBD
 
 ## Project Artefacts
 

@@ -1,9 +1,9 @@
 # Samsung EnnovateX 2025 AI Challenge Submission
 
 - **Problem Statement:** On-Device Fine-Tuning Framework for Billion+-Parameter LLMs
-- **Team Name:** PocketLoRA Innovators
+- **Team Name:** Solo team
 - **Team Members:** Karthick Kumarasamy
-- **Demo Video Link:** TBD
+- **Demo Video Link:** https://youtu.be/_nrNVMzFtoo?feature=shared
 
 ## Project Artefacts
 

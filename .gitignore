@@ -1,0 +1,33 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Android build artifacts
+app/build/
+*.apk
+*.ap_ 
+*.dex
+*.class
+*.log
+.gradle/
+local.properties
+
+# Ignore large model weights
+models/*
+!models/README.md
+!models/.gitignore
+
+# Track adapters (small files allowed)
+!adapters/**
+adapters/*.bin
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,25 @@
+# Core ML stack
+torch>=2.1.0
+torchvision>=0.16.0
+torchaudio>=2.1.0
+
+# Hugging Face ecosystem
+transformers>=4.40.0
+datasets>=2.19.0
+accelerate>=0.30.0
+
+# Parameter-efficient fine-tuning (LoRA/PEFT)
+peft>=0.10.0
+#bitsandbytes>=0.43.0
+
+# Quantization + ONNX/ExecuTorch export
+onnxruntime>=1.17.0
+onnx>=1.16.0
+
+# Utilities
+scipy>=1.12.0
+numpy>=1.26.0
+tqdm>=4.66.0
+
+# Optional: debugging & profiling
+psutil>=5.9.0

@@ -1,0 +1,52 @@
+{
+  "builder_name": "text",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "text",
+  "dataset_size": 5402,
+  "description": "",
+  "download_checksums": {
+    "/Users/karthickkumarasamy/Desktop/individualproject/On-Device-Fine-Tuning-for-BillionPlus-param-LLMs/tools/emails.jsonl": {
+      "num_bytes": 5252,
+      "checksum": null
+    }
+  },
+  "download_size": 5252,
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "input_ids": {
+      "feature": {
+        "dtype": "int32",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "attention_mask": {
+      "feature": {
+        "dtype": "int8",
+        "_type": "Value"
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 10654,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 5402,
+      "num_examples": 50,
+      "dataset_name": "text"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

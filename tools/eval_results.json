@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Write a polite email to a manager requesting leave for 2 days.",
+    "base_output": "Write a polite email to a manager requesting leave for 2 days.",
+    "adapter_output": "Write a polite email to a manager requesting leave for 2 days.\n\nSubject: Request for Leave\n\nDear [Manager's Name],\n\nI am writing to request leave for two days. I have been experiencing a health issue that requires me to take time off work. I understand that the company has a policy of offering flexible work arrangements, and I would appreciate it if you could allow me to take the necessary time to address this",
+    "rougeL": 0.2758620689655173,
+    "bleu": 0.14219205587821182,
+    "bert_similarity": 0.7882200479507446
+  },
+  {
+    "prompt": "Draft a professional email to a client apologizing for a delay in delivery.",
+    "base_output": "Draft a professional email to a client apologizing for a delay in delivery. 6. \"I'm sorry for the delay in processing your order. Our team is working hard to ensure that all orders are delivered on time. Please let us know if there's anything we can do to help.\" Use polite language and a professional tone to show that you understand the importance of the client's time and are working hard to resolve the issue. Remember to proofread",
+    "adapter_output": "Draft a professional email to a client apologizing for a delay in delivery.\n\n1. Introduction\n- Start with a professional greeting, such as \"Dear [Client's Name],\" followed by your name and title.\n- Address the client by their name and include their company or organization.\n- Use a formal tone and a polite tone, indicating that the email is an apology.\n\n2. Apology\n- Begin by apolog",
+    "rougeL": 0.27586206896551724,
+    "bleu": 0.18897184134170467,
+    "bert_similarity": 0.8015950918197632
+  },
+  {
+    "prompt": "Write a formal resignation email with a notice period of 1 month.",
+    "base_output": "Write a formal resignation email with a notice period of 1 month. Your email should clearly explain your reasons for resigning, including any upcoming events or projects that you are leaving behind. Make sure to include a clear signature and date.",
+    "adapter_output": "Write a formal resignation email with a notice period of 1 month.\n\nSubject: Resignation from [Company Name]\n\nDear [Manager Name],\n\nI am writing to inform you of my resignation from [Company Name]. I have been an employee of [Company Name] for [number of years] and have been with the company since [date of joining].\n\nAs a result of my decision to leave the company, I will be",
+    "rougeL": 0.2777777777777778,
+    "bleu": 0.15635134222584984,
+    "bert_similarity": 0.8201408386230469
+  },
+  {
+    "prompt": "Compose an email requesting feedback on a recent project.",
+    "base_output": "Compose an email requesting feedback on a recent project. Use a professional tone and ensure that the email includes specific details about the project, the feedback request, and how you plan to use the feedback. Use a clear and concise subject line and body that highlights the purpose of the request. Additionally, include your contact information, so the recipient can respond to your request.",
+    "adapter_output": "Compose an email requesting feedback on a recent project. Use a professional and courteous tone, and include specific details about the project and its goals. Be sure to ask for specific feedback and provide a clear deadline for the feedback. Thank the recipient for their time and consideration, and include a closing statement that expresses gratitude and asks for any future collaboration.",
+    "rougeL": 0.42857142857142855,
+    "bleu": 0.2760653263910266,
+    "bert_similarity": 0.8912373781204224
+  },
+  {
+    "prompt": "Write a polite reminder email about an overdue invoice.",
+    "base_output": "Write a polite reminder email about an overdue invoice. The email should include a specific date by which the invoice must be paid, the customer's contact information, and a clear message about the consequences of not paying on time. Use a professional tone and include any relevant information, such as the reason for the late payment or an estimated timeframe for payment. Additionally, make sure to include an attachment with the invoice for easy accessibility.",
+    "adapter_output": "Write a polite reminder email about an overdue invoice.",
+    "rougeL": 0.2117647058823529,
+    "bleu": 0.0006755387751938437,
+    "bert_similarity": 0.8871505260467529
+  }
+]

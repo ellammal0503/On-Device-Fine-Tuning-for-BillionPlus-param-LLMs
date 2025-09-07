@@ -7,8 +7,8 @@ Follow these steps to set up the project and build the PocketLoRA app.
 ## 📦 1. Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/pocketlora.git
-cd pocketlora
+git clone https://github.com/ellammal0503/On-Device-Fine-Tuning-for-BillionPlus-param-LLMs.git
+cd On-Device-Fine-Tuning-for-BillionPlus-param-LLMs
 
 Python Environment (for training tools)
 Create a virtual environment and install dependencies:

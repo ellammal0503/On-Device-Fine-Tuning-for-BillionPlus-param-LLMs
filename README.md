@@ -111,8 +111,6 @@ Step-by-step setup:
 
 ---
 
-## 📂 Repository Structure
-
 
 ## 📂 Repository Structure
 
